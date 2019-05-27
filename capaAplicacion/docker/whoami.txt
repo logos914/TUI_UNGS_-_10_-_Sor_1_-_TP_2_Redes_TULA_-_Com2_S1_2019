@@ -1,0 +1,90 @@
+Hostname: c62f6c80abfa
+IP: 127.0.0.1
+IP: 172.18.0.4
+GET / HTTP/1.1
+Host: whoami.docker.localhost
+User-Agent: curl/7.64.0
+Accept: */*
+Accept-Encoding: gzip
+X-Forwarded-For: 172.18.0.1
+X-Forwarded-Host: whoami.docker.localhost
+X-Forwarded-Port: 80
+X-Forwarded-Proto: http
+X-Forwarded-Server: fcf897307c6d
+X-Real-Ip: 172.18.0.1
+
+Hostname: 47bcf3cb5509
+IP: 127.0.0.1
+IP: 172.18.0.5
+GET / HTTP/1.1
+Host: whoami.docker.localhost
+User-Agent: curl/7.64.0
+Accept: */*
+Accept-Encoding: gzip
+X-Forwarded-For: 172.18.0.1
+X-Forwarded-Host: whoami.docker.localhost
+X-Forwarded-Port: 80
+X-Forwarded-Proto: http
+X-Forwarded-Server: fcf897307c6d
+X-Real-Ip: 172.18.0.1
+
+Hostname: 5cd6b932d255
+IP: 127.0.0.1
+IP: 172.18.0.6
+GET / HTTP/1.1
+Host: whoami.docker.localhost
+User-Agent: curl/7.64.0
+Accept: */*
+Accept-Encoding: gzip
+X-Forwarded-For: 172.18.0.1
+X-Forwarded-Host: whoami.docker.localhost
+X-Forwarded-Port: 80
+X-Forwarded-Proto: http
+X-Forwarded-Server: fcf897307c6d
+X-Real-Ip: 172.18.0.1
+
+Hostname: 9480b60dc3d7
+IP: 127.0.0.1
+IP: 172.18.0.3
+GET / HTTP/1.1
+Host: whoami.docker.localhost
+User-Agent: curl/7.64.0
+Accept: */*
+Accept-Encoding: gzip
+X-Forwarded-For: 172.18.0.1
+X-Forwarded-Host: whoami.docker.localhost
+X-Forwarded-Port: 80
+X-Forwarded-Proto: http
+X-Forwarded-Server: fcf897307c6d
+X-Real-Ip: 172.18.0.1
+
+Hostname: c62f6c80abfa
+IP: 127.0.0.1
+IP: 172.18.0.4
+GET / HTTP/1.1
+Host: whoami.docker.localhost
+User-Agent: curl/7.64.0
+Accept: */*
+Accept-Encoding: gzip
+X-Forwarded-For: 172.18.0.1
+X-Forwarded-Host: whoami.docker.localhost
+X-Forwarded-Port: 80
+X-Forwarded-Proto: http
+X-Forwarded-Server: fcf897307c6d
+X-Real-Ip: 172.18.0.1
+
+Hostname: 47bcf3cb5509
+IP: 127.0.0.1
+IP: 172.18.0.5
+GET / HTTP/1.1
+Host: whoami.docker.localhost
+User-Agent: curl/7.64.0
+Accept: */*
+Accept-Encoding: gzip
+X-Forwarded-For: 172.18.0.1
+X-Forwarded-Host: whoami.docker.localhost
+X-Forwarded-Port: 80
+X-Forwarded-Proto: http
+X-Forwarded-Server: fcf897307c6d
+X-Real-Ip: 172.18.0.1
+
